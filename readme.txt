@@ -300,6 +300,7 @@ Nope. Stackable only works with Gutenberg, the new WordPress editor.
 * New: Added option to use an empty alt tag in images #3376
 * Fixed: Image block - using small images no longer stretch #3239
 * Fixed: Image block - switching between % and px width now doesn't cause the image to be too small or too big #3268
+* Fixed: Dynamic Content - better compatibility with Blocksy Content Blocks #368
 * Fixed: EWWW Image Optimizer compatibility - no longer causes blurry images #3296
 
 = 3.13.13 =
