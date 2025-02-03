@@ -234,7 +234,7 @@ const SEARCH_TREE = [
 			{
 				id: 'optimizations',
 				children: [
-					__( 'Frontend JS & CSS Files' ),
+					__( 'Frontend JS & CSS Files', i18n ),
 				],
 			},
 			{
